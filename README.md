@@ -4,7 +4,8 @@ Okumak istediğim, okuduğum ve bitirdiğim kitapları görsel olarak takip etme
 
 ## 🖼️ Ekran Görüntüsü
 
-[Ekran görüntüsü buraya]
+<img width="1563" height="540" alt="Ekran görüntüsü 2026-11-16 132038" src="https://github.com/user-attachments/assets/b788bb63-860b-465f-83dc-b5eb2ee0aeb2" />
+
 
 ## ✨ Özellikler
 
@@ -48,7 +49,7 @@ Bu projeyi geliştirirken yapay zeka asistanından (Claude) planlama ve kodlama 
 
 ## 🌐 Canlı Demo
 
-🔗 [Canlı Demo – Vercel/Netlify linki buraya eklenecek](https://ornek-proje.vercel.app)
+🔗 https://kitap-takip-kanban.vercel.app/
 
 ## 👨‍💻 Geliştirici
 
